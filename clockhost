@@ -60,6 +60,7 @@ HOST,100.24.211.130
 HOST,162.247.242.20
 
 # BLOCK ADOBE #
+DOMAIN-SUFFIX,69tu0xswvq.adobe.io
 DOMAIN-SUFFIX,ic.adobe.io
 DOMAIN-SUFFIX,wip.adobe.com
 DOMAIN-SUFFIX,adobeereg.com
